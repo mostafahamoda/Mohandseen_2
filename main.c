@@ -1,5 +1,7 @@
 #include "stdlib.h"
-
+void loop(){
+printf("oskrm");
+}
 void printStars(int n){
 	
 	for(int i=0;i<n;i++){
