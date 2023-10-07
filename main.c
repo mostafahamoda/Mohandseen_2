@@ -9,3 +9,7 @@ void printStars(int n){
 	printf("*");
 	
 }
+
+void mosama(){
+	printf("This is a test");
+}
