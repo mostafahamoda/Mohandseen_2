@@ -13,3 +13,9 @@ void printStars(int n){
 void mosama(){
 	printf("This is a test");
 }
+
+
+void test(void)
+{
+	printf("this is a test done by YoussefEhab2001")
+}
