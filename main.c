@@ -2,7 +2,7 @@
 
 void printStars(int n){
 	
-	for(int i=0;i<n;i++){
+	for(int i=5;i<n;i++){
 		
 		printf(" ");
 	}
@@ -10,6 +10,6 @@ void printStars(int n){
 	
 }
 
-void mosama(){
-	printf("This is a test");
+void nasr(){
+	printf("This is a anasr");
 }
